@@ -8,4 +8,4 @@
 
  提供点击排序按钮后的响应接口，并提供默认的排序方法，当提供的接口没有具体实现时，按默认的排序方法进行排序操作，并更新表格中的数据显示。
 
-# [结果图](https://lulujianglab.github.io/sorted-tableTool-component/)
+## [结果图](https://lulujianglab.github.io/sorted-tableTool-component/)
